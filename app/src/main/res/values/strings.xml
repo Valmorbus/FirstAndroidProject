@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirstProject</string>
     <string name="action_settings">Settings</string>
+    <string name="label2">Hej världen</string>
+    <string name="label">Skriv in ditt namn:</string>
+    <string name="button1">Click me</string>
 </resources>
